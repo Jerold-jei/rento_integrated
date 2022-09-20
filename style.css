@@ -452,7 +452,7 @@ ul.service-list li:before {
 ul.dot-list li {
   padding-left: 25px;
   position: relative;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 ul.dot-list li:before {
   content: "";
